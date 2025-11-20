@@ -2,7 +2,7 @@
 Minecraft国际商城
 [https://github.com/wiki-mx/place/wiki]
 ![Upl<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg version="1.1" id="MCCB_Logo_Primary" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 300 51" style="enable-background:new 0 0 300 51;" xml:space="preserve">
 <style type="text/css">
@@ -48,18 +48,15 @@ oading Global-Header_MCCB-Logo_300x51.svg…]()
 <img width="720" height="175" alt="MarketplaceLogo" src="https://github.com/user-attachments/assets/938970af-6cc1-42c9-a73a-8cf7da094455" />
 通过 Minecraft DLC 升级游戏设置。从你喜爱的 Minecraft 社区创作者处购买独有的地图、皮肤和材质包！
 
-类别
-[附加包]()
 
-[皮肤包]()
+-----类别
+[附加包](https://github.com/wiki-mx/place/wiki/%E9%99%84%E5%8A%A0%E5%8C%85)
 
-[材质包]()
+[皮肤包](https://github.com/wiki-mx/place/wiki/%E7%9A%AE%E8%82%A4%E5%8C%85)
 
-[混搭包]()
+[材质包](https://github.com/wiki-mx/place/wiki/%E6%9D%90%E8%B4%A8%E5%8C%85)
 
-[冒险地图]()
+[混搭包](https://github.com/wiki-mx/place/wiki/%E6%B7%B7%E6%90%AD%E5%8C%85)
 
-[迷你游戏]()
 
-[生存生成]()
 
